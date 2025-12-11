@@ -164,7 +164,7 @@ aws --endpoint-url=http://localhost:4566 iam attach-user-policy \
 
 - [x] Initial LocalStack setup
 - [x] S3 bucket creation and testing
-- [ ] CloudTrail logging implementation
+- [x] CloudTrail logging implementation
 - [ ] IAM security scenario creation
 - [ ] Security misconfiguration testing
 - [ ] Automated security scanning scripts
