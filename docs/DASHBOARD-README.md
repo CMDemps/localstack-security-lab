@@ -59,7 +59,7 @@ A professional Security Operations Center (SOC) dashboard built in Datadog for r
 
 ### Section 1: Executive Summary & Timeline
 
-![Dashboard Overview - Metrics and Timeline](../screenshots/Screenshot_2025-12-15_200228.png)
+![Dashboard Overview - Metrics and Timeline](../screenshots/datadog-complete-dashboard-1.png)
 
 #### Key Metrics Row (Top)
 
@@ -124,7 +124,7 @@ Detailed audit trail of critical policy modifications:
 
 ### Section 3: S3 Data Security & Deletions
 
-![S3 Security Monitoring](../screenshots/Screenshot_2025-12-15_200257.png)
+![S3 Security Monitoring](../screenshots/datadog-complete-dashboard-2.png)
 
 ### Top S3 Operations
 
@@ -165,7 +165,7 @@ Critical metric tracking destructive operations:
 
 ### Section 4: User Activity & Threat Detection
 
-![User Activity and High-Risk Operations](../screenshots/Screenshot_2025-12-15_200333.png)
+![User Activity and High-Risk Operations](../screenshots/datadog-complete-dashboard-3.png)
 
 #### Most Active Users
 
@@ -214,7 +214,7 @@ Comprehensive audit log of security-critical events:
 
 ### Section 5: Network Intelligence & Analytics
 
-![Network and Geographic Analysis](../screenshots/Screenshot_2025-12-15_200400.png)
+![Network and Geographic Analysis](../screenshots/datadog-complete-dashboard-4.png)
 
 #### Source IP Addresses
 
